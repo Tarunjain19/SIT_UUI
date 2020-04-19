@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="Phraseswt_prompt" version="1.0">
+    <phrase version="1.0">
+        <displayname>welcome</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>welcome.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>noinput</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>noinput.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>transfer</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>transfer.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ENG-FORPREPAID</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ENG-FORPREPAID.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PRESS1</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PRESS1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ENG-FORPOSTPAID</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ENG-FORPOSTPAID.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PRESS2</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PRESS2.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ENG-FOR-DTH</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ENG-FOR-DTH.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PRESS3</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PRESS3.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ENG-FIXLINE-BROADBAND</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ENG-FIXLINE-BROADBAND.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PRESS4</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PRESS4.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ENG-FOR-AIRTELMONEY</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ENG-FOR-AIRTELMONEY.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PRESS5</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PRESS5.wav</audiofile>
+    </phrase>
+</phraseset>
